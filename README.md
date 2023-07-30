@@ -2,6 +2,11 @@
 # Static-Site-Generator-Script
 
 A script to generate <100 unique pages. These pages should be dynamically generated using your script, and the UI of the pages will remain the same but the data used to generate the pages should be unique.
+## DEMO
+
+![](https://github.com/YashRajSingh-4799/Static-Site-Generator-Script/blob/main/Demo.gif)
+
+
 ## Technologies Used
 
 - python scripting
@@ -49,5 +54,5 @@ Generated Pages will be stored in generated_pages folder
 
 ## Lighthouse Score
 
-![](https://github.com/YashRajSingh-4799/Static-Site-Generator-Script/blob/main/Demo.gif)
+![](https://github.com/YashRajSingh-4799/Static-Site-Generator-Script/blob/main/100%20Lighthouse%20Scrore.jpeg)
 
