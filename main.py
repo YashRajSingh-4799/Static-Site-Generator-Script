@@ -26,7 +26,7 @@ def generate_and_deploy_pages(num_pages):
         html_content = generate_html_content(activity_data)
 
         # Write the HTML content to a file
-        filename = f'generated_pages/page_{i + 1}.html'
+        filename = f'generated_pages/page{i + 1}.html'
         write_html_file(html_content, filename)
 
     # Deploy the generated pages to Vercel using the vercel-cli
