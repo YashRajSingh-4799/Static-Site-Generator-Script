@@ -40,7 +40,7 @@ def generate_html_content(activity_data):
       <p class="mb-8 leading-relaxed">We have more special goods for you...</p>
     </div>
     <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-      <img class="object-cover object-center rounded" alt="hero" src="./hero.jpeg">
+      <img class="object-cover object-center rounded" alt="hero" src="./hero.jpg">
       
     </div>
   </div>
